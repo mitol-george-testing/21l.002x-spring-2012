@@ -1,0 +1,32 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Classics"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e4b5f17d-aa03-9211-6ea9-4118594db5f6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Foundations of World Culture II: World Literatures and Texts",
+  "course_description": "This class continues our study of the foundational texts of human culture, focusing on early modernity until the recent past. In many ways, this includes several questions such as: Why did these works achieve the fame and influence they achieved? How do they present what it means to be a human being? How do they describe the role of a member of a family, community, tradition, social class, gender? How do they distinguish between proper and improper behavior? How do they characterize the members of other groups? However, in several ways, these texts are also iconoclastic, breaking with centuries of established tradition to shed light on previously unexplored subjects, such as the status of women in society or the legacy of the colonial expansion of European countries. They also question well-established social beliefs like religion, monarchical rule and human nature in general.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.002X",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
